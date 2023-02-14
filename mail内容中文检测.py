@@ -11,8 +11,8 @@ import pandas as pd
 
 
 ##import data
-datasource = pd.read_excel("D://Users//pjchang//Desktop/标准Q解决率报表明细-IBU.xlsx")
-Dlist = datasource["标准Q"]
+datasource = pd.read_excel("D://Users//pjchang//Desktop/XXxlsx")
+Dlist = datasource["标准X"]
 
 
 # In[5]:
